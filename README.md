@@ -36,3 +36,7 @@ pip install openpyxl
 
 ## To work with jsonschema 
 pip install jsonschema
+
+## set the path for python in jenkins
+set path="C:\Users\abhis\AppData\Local\Programs\Python\Python312"
+python --version
